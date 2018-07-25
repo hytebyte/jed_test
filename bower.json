@@ -1,0 +1,24 @@
+{
+  "name": "javascript-i18n",
+  "authors": [
+    "Paweł Nowak <pn@ges.sh>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jed": "^1.1.1",
+    "jed-gettext-parser": "^1.0.0",
+    "requirejs": "^2.3.5"
+  }
+}

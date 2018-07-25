@@ -36,6 +36,7 @@ require(
       const elCount       = document.getElementById("count");
       const elText        = document.getElementById("text");
 
+      // TRANSLATORS: This is a comment embedded in a source file.
       elLangLabel.innerText = i18n.gettext("Language:");
       elLang.value = lang;
 
@@ -46,7 +47,7 @@ require(
 
         const text = i18n.sprintf(
           i18n.ngettext(
-            "You have selected %d object.",
+            "You have selected one object.",
             "You have selected %d objects.",
             count
           ),

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Javascript I18n Test\n"
-"POT-Creation-Date: 2018-07-25 13:27+0200\n"
-"PO-Revision-Date: 2018-07-25 13:27+0200\n"
+"POT-Creation-Date: 2018-07-25 15:57+0200\n"
+"PO-Revision-Date: 2018-07-25 15:58+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -16,20 +16,21 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: main.js:30
+#. TRANSLATORS: This is a comment embedded in a source file.
+#: main.js:40
 msgid "Language:"
 msgstr "Język:"
 
-#: main.js:33
+#: main.js:43
 msgctxt "button"
 msgid "Change"
 msgstr "Zmień"
 
-#: main.js:40
+#: main.js:50
 #, javascript-format
-msgid "You have selected %d object."
+msgid "You have selected one object."
 msgid_plural "You have selected %d objects."
-msgstr[0] "Wybrałeś %d obiekt."
+msgstr[0] "Wybrałeś jeden obiekt."
 msgstr[1] "Wybrałeś %d obiekty."
 msgstr[2] "Wybrałeś %d obiektów."
 
